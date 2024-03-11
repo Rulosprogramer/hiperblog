@@ -5,3 +5,7 @@ seunda agregación en este documento
 tengo 28 años y estoy estudiando programación
 
 hoy veo segunda clase de de programación git
+
+staging es la memoria real 
+
+y el repositorio es dónde lelga cuándo haces un commit con -m
